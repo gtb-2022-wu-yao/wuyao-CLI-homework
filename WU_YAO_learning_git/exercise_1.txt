@@ -1,0 +1,5 @@
+I AM LEARNING GIT.
+IT IS VERY DIFFICULT.
+:）
+if you want to insert something, you have to insert 'i' first.
+then you need to 'esc', insert':wq' to save and leave the editing page.
